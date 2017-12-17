@@ -1,0 +1,12 @@
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/config/WebLogAspect.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/controller/pagination/PaginationFormatting.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/entities/Persons.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/exception/ProjExceptionHandler.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/config/SQLiteDialect.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/dao/ErrorInfo.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/config/CORSConfig.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/controller/pagination/PaginationMultiTypeValuesHelper.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/dao/PersonsRepository.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/App.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/controller/MainController.java
+/Users/a1/code/yoga/SpringBoot-vue/src/main/java/com/boylegu/springboot_vue/exception/ProjException.java
