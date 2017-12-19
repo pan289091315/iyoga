@@ -1,0 +1,15 @@
+.project
+.settings*
+*.classpath
+*/target/*
+*.iml
+*.versionsBackup
+.idea/
+*/test-output/*
+*.versionsBackup
+init.jar
+archetype.properties
+.DS_Store
+*.ipr
+*.iws
+git
